@@ -48,14 +48,14 @@ Here's a walkthrough of implemented user stories:
 [I looked up via google whatever I needed help with. Websites I used the most were GeeksForGeeks and W3Schools.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[For the longest time, I had no idea the "lose after 3 mistakes" wasn't working. I triple checked my logic, and it seemed perfectly fine. A simple counter increment and once that counter hits 3, then I loseGame();
-I didn't realize at the end of the document, there were hints on how to implement it. But after reading it, I still couldn't get my code to work.
-First of all, I read the "global variable" to keep track. Global? I thought to myself. I just copy and paste these "const" variables right?
-"My logic seems fine, right?" I thought to myself. I kept trying to implement with the game logic. Moving the loseGame() here, incrementing the loseCounter there. Stuff like that
-For the "global variable", I simply copied and pasted the first "const" variables I saw at the top of the code.
-Then it hit me, "const". Const stands for a constant variable. But I'm trying to increment my counter by 1. 
-I simply changed that "const" to "var".
-Unfortunately, my mindless copy and paste was simple mistake that took me quite a long time to fix.
+[For the longest time, I had no idea the "lose after 3 mistakes" wasn't working. I triple checked my logic, and it seemed perfectly fine. A simple counter increment and once that counter hits 3, then I loseGame(); <br />
+I didn't realize at the end of the document, there were hints on how to implement it. But after reading it, I still couldn't get my code to work.<br />
+First of all, I read the "global variable" to keep track. Global? I thought to myself. I just copy and paste these "const" variables right? <br />
+"My logic seems fine, right?" I thought to myself. I kept trying to implement with the game logic. Moving the loseGame() here, incrementing the loseCounter there. Stuff like that <br />
+For the "global variable", I simply copied and pasted the first "const" variables I saw at the top of the code.<br />
+Then it hit me, "const". Const stands for a constant variable. But I'm trying to increment my counter by 1. <br />
+I simply changed that "const" to "var".<br />
+Unfortunately, my mindless copy and paste was simple mistake that took me quite a long time to fix.<br />
 ]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
