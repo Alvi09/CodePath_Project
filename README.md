@@ -44,10 +44,10 @@ Here's a walkthrough of implemented user stories:
 
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[I looked up via google whatever I needed help with. Websites I used the most were GeeksForGeeks and W3Schools.]
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. <br />
+I looked up via google whatever I needed help with. Websites I used the most were GeeksForGeeks and W3Schools.<br />
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) <br />
 For the longest time, I had no idea the "lose after 3 mistakes" wasn't working. I triple checked my logic, and it seemed perfectly fine. A simple counter increment and once that counter hits 3, then I loseGame(); <br />
 I didn't realize at the end of the document, there were hints on how to implement it. But after reading it, I still couldn't get my code to work.<br />
 First of all, I read the "global variable" to keep track. Global? I thought to myself. I just copy and paste these "const" variables right? <br />
@@ -58,7 +58,7 @@ I simply changed that "const" to "var".<br />
 Unfortunately, my mindless copy and paste was simple mistake that took me quite a long time to fix.<br />
 
 <br />
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) <br />
 Web Development is a beautiful thing, and there are beautiful things you can do with it. So my first question is, What's the limit of web development? <br />
 What exactly can I do and not do? Can I create an animation that pops out words to me? Could I create a game where users can simply play on the website using pure HTML, CSS, and JAVASCRIPT?<br />
 Probably. <br />
@@ -66,7 +66,7 @@ Another question I had was say if there was a login / password system, how does 
 I would probably look up a youtube video after I'm finished typing this up.<br />
 
 <br />
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) <br />
 Unfortunately for me, I didn't see this opportunity until 9:00 PM 3/24/2021 while browsing my HackatUCI Discord.<br />
 I only had 3 hours to implement everything, and I wish I had more time. I wish I had more time to implement every single "Optional" feature. I wish I had time to fiddle around and play with certain things<br />
 I wish I had time to figure out how to implement background images on a #button instead of just giving up in order to submit in time. <br />
