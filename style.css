@@ -1,0 +1,72 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: Papyrus, Fantasy;
+  margin: 2em;
+  background-color: slategrey;
+  color: white; 
+
+}
+
+h1 {
+  font-family: Papyrus, Fantasy; 
+}
+
+/* Wow, you can actually do "button{}" to change button's styling"*/
+button{
+  padding: 6.5px;
+  border-radius: 6.5px;
+}
+
+/* Targets all four game buttons (but not start/stop) */
+#gameButtonArea > button {
+  width:100px;
+  height:100px;
+  margin:50px;
+}
+
+
+/* Hides any element that belongs to "hidden" class (class=hidden)*/
+.hidden {
+  display: none;
+}
+
+/* Create buttons and change them once clicked */
+#button1 {
+    background: lightgreen;
+}
+#button2 {
+    background: lightblue;
+}
+#button3 {
+    background: pink;
+}
+#button4 {
+    background: lightyellow;
+}
+#button5 {
+    background: lightcoral;
+}
+#button6 {
+  background: white;
+}
+/* New selector targets button1 element when user presses it
+  Or when CSS class has "lit" in class list*/
+#button1:active, #button1.lit {
+    background:green;
+}
+#button2:active, #button2.lit {
+    background:blue;
+}
+#button3:active, #button3.lit {
+    background:red;
+}
+#button4:active, #button4.lit {
+    background:yellow;
+}
+#button5:active, #button5.lit {
+    background:coral;
+}
+#button6:active, #button6.lit{
+    background: black;
+}
