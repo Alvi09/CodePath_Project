@@ -68,8 +68,7 @@ I would probably look up a youtube video after I'm finished typing this up.<br /
 <br />
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) <br />
 <br />Unfortunately for me, I didn't see this opportunity until 9:00 PM 3/24/2021 while browsing my HackatUCI Discord.<br />
-I only had 3 hours to implement everything, and I wish I had more time. I wish I had more time to implement every single "Optional" feature. I wish I had time to fiddle around and play with certain things<br />
-I wish I had time to figure out how to implement background images on a #button instead of just giving up in order to submit in time. <br />
+I only had 3 hours to implement everything, and I wish I had more time. I wish I had more time to implement every single "Optional" feature. I wish I had time to fiddle around and play with certain things. I wish I had time to figure out how to implement background images on a #button instead of just giving up in order to submit in time. <br />
 Outside of the optional features, I was thinking if there a way to create another gamemode where it's not based on the sound, but the location. <br />
 Maybe shuffle the squares (same color) around and have the user trace it and try to memorize its location.<br />
 
