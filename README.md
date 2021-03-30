@@ -51,7 +51,7 @@ Here's a walkthrough of implemented user stories:
 <br />For the longest time, I had no idea why the "lose after 3 mistakes" wasn't working. I triple checked my logic, and it seemed perfectly fine. A simple counter increment and once that counter hits 3, then I loseGame(); <br />
 I didn't realize at the end of the document, there were hints on how to implement it. But after reading it, I still couldn't get my code to work.<br />
 First of all, I read the "global variable" to keep track. Global? I thought to myself. I just copy and paste these "const" variables right? <br />
-"My logic seems fine, right?" I thought to myself. I kept trying to implement with the game logic. Moving the loseGame() here, incrementing the loseCounter there. Stuff like that <br />
+"My logic seems fine, right?" I thought to myself. I kept trying to implement with the game logic. Moving the loseGame() here, incrementing the loseCounter there. Stuff like that. <br />
 For the "global variable", I simply copied and pasted the first "const" variables I saw at the top of the code.<br />
 Then it hit me, "const". Const stands for a constant variable. But I'm trying to increment my counter by 1. <br />
 I simply changed that "const" to "var".<br />
@@ -62,7 +62,7 @@ Unfortunately, my mindless copy and paste was simple mistake that took me quite 
 <br />Web Development is a beautiful thing, and there are beautiful things you can do with it. So my first question is, What's the limit of web development? <br />
 What exactly can I do and not do? Can I create an animation that pops out words to me? Could I create a game where users can simply play on the website using pure HTML, CSS, and JAVASCRIPT?<br />
 Probably. <br />
-Another question I had was say if there was a login / password system, how does that work? In terms of back-end, I'm assuming it'll be stored as a map / dictionary in the database, but it doesn't sound that simple<br />
+Another question I had was say if there was a login / password system, how does that work? In terms of back-end, I'm assuming it'll be stored as a map / dictionary in the database, but it doesn't sound that simple.<br />
 I would probably look up a youtube video after I'm finished typing this up.<br />
 
 <br />
